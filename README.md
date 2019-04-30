@@ -17,7 +17,7 @@
 ### Prerequisites
 
 Что нужно установить на ПК для использования (например: Git, браузер и т.д.).
-Ознакомтесь, пожалуйста [здесь](https://github.com/netology-code/guides/blob/master/git/REAMDE.md) с пошаговыми интсрукциями установки.
+Ознакомтесь, пожалуйста, [здесь](https://github.com/netology-code/guides/blob/master/git/REAMDE.md) с пошаговыми интсрукциями установки.
 
 ### Лицензия
 Программа является свободной и выпущена под лицензией [GNU GPL](https://ru.wikipedia.org/wiki/GNU_General_Public_License) версии 2. По умолчанию используется TCP порт 9418
